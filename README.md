@@ -14,7 +14,6 @@
 Overview
 <p>Welcome to the Online Grocery Ordering System repository! This project is a web-based application developed in PHP that allows users to order groceries online seamlessly. The system is designed to provide a convenient and efficient shopping experience, enabling customers to browse, select, and purchase groceries from the comfort of their homes.</p>
 
-<h3>Features/h3>
 User Features
 User Registration and Authentication: Secure user registration and login system.
 Product Browsing: Browse products by categories such as fruits, vegetables, dairy, etc.
